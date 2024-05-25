@@ -2,8 +2,8 @@
 #include <BluetoothSerial.h>
 #include <Espalexa.h>
 
-const char* ssid = "Xiaomi 11T Pro";
-const char* password = "xiaomiiinet";
+const char* ssid = "";
+const char* password = "";
 
 BluetoothSerial SerialBT;
 const int bedroomLightBulb = 15;
